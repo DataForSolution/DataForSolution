@@ -25,6 +25,22 @@ I believe technology should begin with the clinical problem—not the software.
 
 ---
 
+## Selected Engineering & Data Projects
+
+I maintain a curated portfolio of selected projects that have been reviewed for provenance, methodology, reproducibility, and claim quality.
+
+- **[PETQuant Reliability](https://github.com/DataForSolution/Data-Solution/tree/Master/portfolio/petquant)** — PET quantitative-ML reliability, data-quality, and validation reconstruction.
+- **[Chest CT Classification](https://github.com/DataForSolution/Data-Solution/tree/Master/portfolio/chest-ct-classification)** — medical-imaging transfer learning with explicit overfitting and evaluation boundaries.
+- **[Pima Diabetes ML Evaluation](https://github.com/DataForSolution/Data-Solution/tree/Master/portfolio/pima-diabetes-ml)** — leakage-safe healthcare ML evaluation with sensitivity and specificity reporting.
+- **Responsible AI** — [SHAP + LIME explainability](https://github.com/DataForSolution/Data-Solution/tree/Master/portfolio/shap-lime-explainability), [fairness evaluation](https://github.com/DataForSolution/Data-Solution/tree/Master/portfolio/fairness-evaluation), and [adversarial robustness](https://github.com/DataForSolution/Data-Solution/tree/Master/portfolio/adversarial-robustness).
+- **[AWS Glue + EMR PySpark Ingestion Validation](https://github.com/DataForSolution/Data-Solution/tree/Master/portfolio/spark-glue-ingestion)** — distributed-data catalog and ingestion-quality engineering.
+- **[Automobile Insurance Fraud Classification](https://github.com/DataForSolution/Data-Solution/tree/Master/portfolio/insurance-fraud-classification)** — temporal, imbalance-aware classification and threshold evaluation.
+- **[Restaurant Review Sentiment Evaluation](https://github.com/DataForSolution/Data-Solution/tree/Master/portfolio/restaurant-sentiment-evaluation)** — leakage-safe NLP model comparison using fold-local text pipelines.
+
+**[View the full curated portfolio →](https://github.com/DataForSolution/Data-Solution/tree/Master/portfolio)**
+
+---
+
 ## OraDigit
 
 OraDigit is an independent Healthcare Technology Research & Innovation initiative dedicated to developing practical solutions for healthcare professionals.
